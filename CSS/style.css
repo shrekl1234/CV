@@ -1,0 +1,30 @@
+body {
+  background-color: #eaf6f6;
+}
+
+hr {
+  border-color: grey;
+  border-style: dotted none none;
+  border-width: 10%;
+  width: 10%;
+}
+
+h1 {
+  color: #66BFBF;
+}
+
+h2 {
+  color: #138808;
+}
+
+.DP {
+  border-radius: 100%;
+}
+
+#bhagwa {
+  color: #FF9933;
+}
+
+#naam {
+  color: #000080;
+}
